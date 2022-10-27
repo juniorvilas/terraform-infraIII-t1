@@ -1,7 +1,7 @@
 user:~$ aws configure
 
-ACESS_KEY: AKIAV4YTWNKPG6GAL4MB
-SECRET_KEY: 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
+ACESS_KEY: 
+SECRET_KEY: 
 REGION: sa-east-1
 OUTPUT: json
 
